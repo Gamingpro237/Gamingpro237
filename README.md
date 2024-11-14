@@ -57,7 +57,7 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Gamingpro237=Gamingpro237&show_icons=true&theme=dark&hide=contribs,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamingpro237&show_icons=true&theme=dark&hide=contribs,prs)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
