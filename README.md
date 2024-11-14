@@ -71,11 +71,8 @@
 
 ### 🚀 Top Contributed Repos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Auto_Jobs_Applier_AI_Agent&theme=dark)](https://github.com/yourusername/Auto_Jobs_Applier_AI_Agent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=lib_resume_builder_AI&theme=dark)](https://github.com/yourusername/lib_resume_builder_AI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=DocuTalk&theme=dark)](https://github.com/yourusername/DocuTalk)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=psutils&theme=dark)](https://github.com/yourusername/psutils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=KetsuCheck&theme=dark)](https://github.com/yourusername/KetsuCheck)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gamingpro237&repo=Advanced_Interview_responder_with_AI&theme=dark)](https://github.com/Gamingpro237/Advanced_Interview_responder_with_AI.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Freddyjunior237&repo=Technology-trackers&theme=dark)](https://github.com/Freddyjunior237/technology-trackers)
 
 ---
 
