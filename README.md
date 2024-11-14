@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-- 👋 Hi, I’m @Gamingpro237( Gift )
+- 👋 Hi, I’m Gift
 
 - 👀 I’m interested in game development, job application automation, and web development.
 
