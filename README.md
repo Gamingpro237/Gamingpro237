@@ -59,13 +59,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamingpro237&show_icons=true&theme=dark&hide=contribs,prs)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamingpro237&layout=compact&theme=dark)
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gamingpro237&theme=onestar)
 
 ---
 
@@ -79,7 +79,7 @@
 
 ---
 
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=Gamingpro237&color=blue)
 
 <!---
 Gamingpro237/Gamingpro237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
