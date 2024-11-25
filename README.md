@@ -72,6 +72,7 @@
 ### 🚀 Top Contributed Repos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gamingpro237&repo=Advanced_Interview_responder_with_AI&theme=dark)](https://github.com/Gamingpro237/Advanced_Interview_responder_with_AI.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anjalee01&repo=IBM-watsonx-Assistant-Hackathon&theme=dark)](https://github.com/Anjalee01/IBM-watsonx-Assistant-Hackathon.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Freddyjunior237&repo=Technology-trackers&theme=dark)](https://github.com/Freddyjunior237/technology-trackers)
 
 ---
