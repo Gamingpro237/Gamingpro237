@@ -1,18 +1,6 @@
-# 👋 About Me:
-
-- 👋 Hi, I’m Gift
-
-- 👀 I’m interested in web development ,game development and AI automation.
-
-- 🌱 I’m currently learning Unity (2022.3.29f1) for game development and exploring Python for various applications, including Ai solutions.
-
-- 💞️ I’m looking to collaborate on projects related to game development, Unity, Python, Ai and web technologies.
-
-- 📫 How to reach me: You can reach out via my profile here or mouafogift444@gmail.com
-
-- 😄 Pronouns: He/Him.
-
-- ⚡ Fun fact: I'm creating a world of Ai.
+# 👋 About Me
+- Hey there! I'm Mouafo Kamgno Keryan Gift 🚀👨‍💻 Full-Stack Software Engineer & Tech InnovatorI am a passionate and results-driven Software Engineer with a solid academic foundation and extensive practical experience building modern digital solutions.
+- My technical background spans full-stack application architecture, interactive game development, and the integration of cutting-edge enterprise AI technologies.I excel at leveraging advanced AI-assisted development workflows to debug complex systems, optimize codebase performance, and build highly scalable web and mobile software.
 
 ---
 
@@ -47,6 +35,13 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Unity 3D](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0B1120?style=for-the-badge&logo=unrealengine&logoColor=white)
+![IBM watsonx](https://shields.io)
+![OpenAI API](https://shields.io)
+![React](https://shields.io)
+![Node.js](https://shields.io)
+![Django](https://shields.io)
+![JavaScript](https://shields.io)
+![Supabase](https://shields.io)
 
 ---
 
